@@ -1,0 +1,38 @@
+.counter {
+    margin: 4rem;
+    font-size: 6rem;
+}
+
+.big-container span{
+    font-size: 2rem;
+}
+
+.container {
+    display: flex;
+    width: 190px;
+    justify-items: center;
+    align-items: center;
+    height: 130px;
+    margin: auto;
+    gap: 50px;
+}
+.buttons {
+    background-color: #c5e0ff;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30%;
+    border: 0.2rem solid black;
+    font-size: 1.2rem;
+}
+
+.reset-button {
+    background-color: #c5e0ff;
+    border-radius: 2rem;
+    border: 0.2rem solid black;
+    font-size: 1.5rem;
+    padding: 1rem 4rem;
+    margin: 2rem;
+}
